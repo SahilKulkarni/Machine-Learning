@@ -9,4 +9,6 @@ PlotDecisionBoundary.py
 This implementation was done according to the dataset in "Problem Set #1" in Stanford's CS229 course (Autumn 2017), thereby not
 generalizing the plotting process. This function plots the feature space and the estimated decision boundary given a parameter vector.
 
-Scatter
+Results and Conclusion
+---
+After 100,000 iterations through the training set at a learning rate of 0.0001, the resulting parameters found were -2.63911473, 0.77588832, 1.17781541 repectively. I am not sure how to determine an appropriate learning rate and iteration amount yet. 
