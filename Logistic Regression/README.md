@@ -11,4 +11,4 @@ generalizing the plotting process. This function plots the feature space and the
 
 Results and Conclusion
 ---
-After 100,000 iterations through the training set at a learning rate of 0.0001, the resulting parameters found were -2.63911473, 0.77588832, 1.17781541 repectively. I am not sure how to determine an appropriate learning rate and iteration amount yet. 
+After 100,000 iterations through the training set at a learning rate of 0.0001, the resulting parameters found were -2.6242539, 0.76348427, and 1.17312019 repectively. The scatterplot shows that these values do approximately seperate the data. I am not sure how to determine an appropriate learning rate and iteration amount yet. 
