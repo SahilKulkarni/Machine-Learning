@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def plotDescisionBounary(x, y, theta):
+def plotDecisionBounary(x, y, theta):
     x1 = x[:,1]
     x1 = x1.reshape(x1.size, 1)
     x10 = np.ndarray((50, 1)) #feature 1 values corresponding to y = 0
